@@ -12,7 +12,9 @@ body{
     border: none !important;
     color: white !important;
 }
-
+#website{
+    font-size: 8rem !important;
+}
 .content{
     display: flex;
     flex-direction: column;
@@ -38,6 +40,6 @@ a{
     align-items: center;
     justify-content: center;
 }
-#home{
+.home-1{
     color: yellow;
 }
